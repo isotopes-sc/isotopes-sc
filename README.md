@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Learning and Building**
+**Learning & Building: Learning AI and creating products using it.**
 
 <!--
 **isotopes-sc/isotopes-sc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
